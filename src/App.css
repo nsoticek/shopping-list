@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.shopping_container {
+  border: 1px solid #ccc;
+  margin: 50px 35%;
+}

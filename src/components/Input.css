@@ -1,0 +1,21 @@
+
+.input_container {
+    margin-top: 25px;
+    display: flex;
+}
+
+.input_container input {
+    border: 1px solid #ccc;
+    border-bottom: none;
+    border-left: none;
+    border-radius: 0;
+    width: 100%;
+    padding-left: 20px;
+}
+
+.input_container button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px;
+}
